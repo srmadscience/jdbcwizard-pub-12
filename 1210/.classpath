@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/orindasoft/app/procbuilder/jdev*|com/orindasoft/app/procbuilder/jdev/|com/orindasoft/customers/ualloyalty/|com/orindasoft/demo/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/DR/Work/CodeSpooks/Lib/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="C:/DR/Work/CodeSpooks/Lib/j2ee.jar"/>
+	<classpathentry kind="lib" path="C:/DR/Work/CodeSpooks/Lib/fscontext.jar"/>
+	<classpathentry kind="lib" path="C:/DR/Work/CodeSpooks/Lib/providerutil.jar"/>
+	<classpathentry kind="lib" path="C:/DR/Work/CodeSpooks/Lib/bc4jmt.jar"/>
+	<classpathentry kind="lib" path="C:/DR/Work/CodeSpooks/Lib/collections.jar"/>
+	<classpathentry kind="lib" path="C:/DR/Work/CodeSpooks/Lib/JDBC1110/ojdbc5.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
